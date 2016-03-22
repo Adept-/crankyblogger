@@ -5,7 +5,7 @@ from oauth2client import client
 from apiclient.discovery import build
 from oauth2client.file import Storage
 
-blogId = 4346786333440044000 # put your blog ID here
+blogId = 0 # put your blog ID here
 isDraft = True # Don't change this unless you are prepared to modify the script
 postfile = ''
 title = 'Default Title' # Change this to the default title you prefer
