@@ -21,16 +21,11 @@ labels # defaults are used when no labels are given on CLI
 blogId # The id of your blog
 title  # The default title to use if one is not specified
 
-#You're post should be a plain text html file. Common tags include
--<br />Put two line breaks between paragraphs
--<pre>Good for multi-line code snippets</pre>
--<code>Single line code snippet</code>
--<a href="linkurl">My cool link</a>
-
 #TIPS
 -You can use html2text to view the post in the command line or simply fire it up
 in a browser to see if formating is correct.
 -Don't forget to use the spellcheck in your editor :)
+-Your post should be a plain html file
 -Please enjoy and I welcome public contributions!
 
 #TODO
